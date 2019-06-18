@@ -1,3 +1,5 @@
+## R Programming (Coursera - Data Science specialization)
+## Programming Assignment2
 ### Introduction
 
 This second programming assignment will require you to write an R
